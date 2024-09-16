@@ -34,7 +34,7 @@ impl Fibonacci {
 
 
     fn into_vec(self) -> Vec<u64> {
-        self.into_iter()     //take_while(|&x| true) //在这里暂时没有限制条件，可以改成iter_into（）,要获取所有权
+        self.into_iter()     //take_while(|&x| true) //在这里暂时没有限制条件，可以改成into_iter（）,要获取所有权
         .collect()
     }
 }
