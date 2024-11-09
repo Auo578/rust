@@ -1,0 +1,11 @@
+[package]
+name = "module"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = {version = "1.23.0", features = ["full"]}
+
+[[bin]]
+name = "module"
+path = "src/example/main.rs"

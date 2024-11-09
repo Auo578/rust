@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "basic", 
+    "module",
+    "thread",
+    "thread_pool", 
+    "tokio",
+]
+
