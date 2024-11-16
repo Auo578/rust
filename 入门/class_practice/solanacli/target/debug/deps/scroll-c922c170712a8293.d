@@ -1,0 +1,13 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libscroll-c922c170712a8293.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\ctx.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\endian.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\greater.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\leb128.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lesser.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pread.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pwrite.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\scroll-c922c170712a8293.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\ctx.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\endian.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\greater.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\leb128.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lesser.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pread.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pwrite.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\ctx.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\endian.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\error.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\greater.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\leb128.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\lesser.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pread.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scroll-0.11.0\src\pwrite.rs:

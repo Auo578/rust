@@ -1,0 +1,9 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libspl_type_length_value-c31f5e85106aafe1.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\length.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\state.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\variable_len_pack.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\spl_type_length_value-c31f5e85106aafe1.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\length.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\state.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\variable_len_pack.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\error.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\length.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\state.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.5.0\src\variable_len_pack.rs:

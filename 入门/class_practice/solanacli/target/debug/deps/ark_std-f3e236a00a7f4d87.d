@@ -1,0 +1,12 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libark_std-f3e236a00a7f4d87.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\ark_std-f3e236a00a7f4d87.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs:

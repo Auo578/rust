@@ -1,0 +1,8 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libsolana_config_program-d6c9062385d07d25.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src/lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_instruction.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_processor.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\date_instruction.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\solana_config_program-d6c9062385d07d25.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src/lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_instruction.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_processor.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\date_instruction.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src/lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_instruction.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\config_processor.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-2.1.0\src\date_instruction.rs:

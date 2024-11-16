@@ -1,0 +1,10 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libsolana_curve25519-551ceb0b0254bcdb.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src/lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\curve_syscall_traits.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\edwards.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\errors.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\ristretto.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\scalar.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\solana_curve25519-551ceb0b0254bcdb.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src/lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\curve_syscall_traits.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\edwards.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\errors.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\ristretto.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\scalar.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src/lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\curve_syscall_traits.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\edwards.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\errors.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\ristretto.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-curve25519-2.1.0\src\scalar.rs:

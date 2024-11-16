@@ -1,0 +1,9 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libascii-d4cb176f15c57653.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_char.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_str.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_string.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\free_functions.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\ascii-d4cb176f15c57653.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_char.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_str.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_string.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\free_functions.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_char.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_str.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\ascii_string.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascii-0.9.3\src\free_functions.rs:

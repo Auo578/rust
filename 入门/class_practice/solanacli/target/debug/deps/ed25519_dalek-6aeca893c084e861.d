@@ -1,0 +1,11 @@
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\libed25519_dalek-6aeca893c084e861.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\constants.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\errors.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\public.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\secret.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\signature.rs
+
+E:\git\rust\入门\class_practice\solanacli\target\debug\deps\ed25519_dalek-6aeca893c084e861.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\constants.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\errors.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\public.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\secret.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\signature.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\constants.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\keypair.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\errors.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\public.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\secret.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-dalek-1.0.1\src\signature.rs:

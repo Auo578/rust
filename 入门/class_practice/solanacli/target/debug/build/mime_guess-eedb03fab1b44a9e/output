@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=E:\git\rust\入门\class_practice\solanacli\target\debug\build\mime_guess-eedb03fab1b44a9e\out\mime_types_generated.rs
