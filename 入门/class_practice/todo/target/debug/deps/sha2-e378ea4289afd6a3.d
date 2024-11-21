@@ -1,0 +1,12 @@
+E:\git\rust\入门\class_practice\todo\target\debug\deps\libsha2-e378ea4289afd6a3.rmeta: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+E:\git\rust\入门\class_practice\todo\target\debug\deps\sha2-e378ea4289afd6a3.d: C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs:
+C:\Users\xiang\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs:
