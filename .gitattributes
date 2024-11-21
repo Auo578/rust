@@ -2,3 +2,5 @@
 * text=auto
 入门/class_practice/solanacli/target/debug/deps/libsolana_rpc_client-b4d9bb2a1eeb8dd0.rlib filter=lfs diff=lfs merge=lfs -text
 入门/class_practice/solanacli/target/debug/deps/solanacli.pdb filter=lfs diff=lfs merge=lfs -text
+*.rlib filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
